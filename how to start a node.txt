@@ -1,0 +1,10 @@
+1. check out code from https://github.com/wanchain/go-wanchain.git
+
+2. in the go-wanchain directory, execute command: make all
+
+3. in the ./build/bin directory, execute command following command to connect with the Testnet
+
+   ./geth --testnet
+   
+4. check if the data begin to synchronize data from Testnet
+   
